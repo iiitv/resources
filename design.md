@@ -1,0 +1,2 @@
+- Visit [codepen.io](https://codepen.io/) and [dribbble.com](https://dribbble.com/) for ideas, examples and other stuff.
+- For more details on how to get started, visit [https://goo.gl/457Ebh](https://goo.gl/457Ebh)
