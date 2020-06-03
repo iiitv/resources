@@ -33,13 +33,26 @@ General things to get yourself started 🍾
 
 ## [DSA and Competitive Programming](dsa-cp.md) 💻
 
+Data Structures and Algorithms (DSA) are the building blocks of any software. One generally takes these courses in the initial years of one's software engineering. Basic knowledge of these is very helpful, especially when working with complex systems.
+Solving Competitive Programming questions can be a good way to practice and improve your DSA knowledge.
+
 ## [Web Development](web-dev.md) 🌐
+
+The web powers the information around us. Understanding web technologies and knowing how to build websites gives you superpowers to manipulate the web and build your own website to host the content you want to.
+Web development includes many aspects like frontend, backend, SEO, hosting among others.
 
 ## [Mobile Development](mobile-dev.md) 📱
 
+Mobile is a ubiquitous device nowdays. Infact, a large portion of web is consumed on the mobile itself. That's why there's been a recent surge of mobile native apps in the market.
+Android and iOS are the larest mobile app markets.
+
 ## [Design](design.md) 🎨
 
+Apart form adding a visual flair to your software, apps or website, good design knowledge is required to also make accessible and easy to use apps. The easier it is to navigate across your product, the longer would the consumer want to stay.
+
 ## [FAQs](faq.md) ❓
+
+Questions we get asked most often.
 
 ## Our Community
 
