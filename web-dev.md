@@ -4,6 +4,8 @@
 
 - Languages to learn : [https://bit.ly/2FktVzv](https://bit.ly/2FktVzv)
 
+- Learn things related to javascript [https://egghead.io/](https://egghead.io/)
+
 #### For Web development
 
 - Free code camp:[https://bit.ly/2v55qyu](https://bit.ly/2v55qyu)
