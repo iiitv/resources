@@ -55,7 +55,7 @@
 
 - The Net Ninja [Playlists](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists)
 
-- Tech no Kami [Channel](https://www.youtube.com/channel/UCEOlPDwCfKExEiyBrIo4gOg/featured)
+- [Tech no Kami](https://www.youtube.com/channel/UCEOlPDwCfKExEiyBrIo4gOg/featured)
 
 - Codevolution [React Playlist](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 
@@ -63,16 +63,16 @@
 
 ### Documentation
 
-- JavaScript [doc](https://developer.mozilla.org/en-US/docs/Web/javascript)
-- React [doc](https://reactjs.org/docs/getting-started.html)
-- Angular [doc](https://angular.io/docs)
-- Node [doc](https://nodejs.org/en/docs/)
-- Deno [doc](https://doc.deno.land/https/github.com/denoland/deno/releases/latest/download/lib.deno.d.ts)
-- Vue [doc](https://vuejs.org/v2/guide/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
+- [React](https://reactjs.org/docs/getting-started.html)
+- [Angular](https://angular.io/docs)
+- [Node](https://nodejs.org/en/docs/)
+- [Deno](https://doc.deno.land/https/github.com/denoland/deno/releases/latest/download/lib.deno.d.ts)
+- [Vue](https://vuejs.org/v2/guide/)
 
 ### Books
 
-- You-Don't-Know-JS [book](https://github.com/getify/You-Dont-Know-JS)
-- Eloquent JavaScript [book](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
-- JavaScript and JQuery: Interactive Front–End Web Development [**One of the best regarded books**]
-- JavaScript: The Good Parts [book](https://www.academia.edu/40689789/JavaScript_The_Good_Parts_by_Douglas_Crockford)
+- [You-Don't-Know-JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
+- [Eloquent JavaScript](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) by Marijn Haverbeke
+- JavaScript and JQuery: Interactive Front–End Web Development by Jon Duckett [**One of the best regarded books**]
+- [JavaScript: The Good Parts](https://www.academia.edu/40689789/JavaScript_The_Good_Parts_by_Douglas_Crockford) by Douglas Crockford
