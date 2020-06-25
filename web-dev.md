@@ -4,6 +4,8 @@
 
 - Languages to learn : [https://bit.ly/2FktVzv](https://bit.ly/2FktVzv)
 
+- Learn things related to javascript [https://egghead.io/](https://egghead.io/)
+
 #### For Web development
 
 - Free code camp:[https://bit.ly/2v55qyu](https://bit.ly/2v55qyu)
@@ -11,6 +13,7 @@
 - (For Udemy coupons, visit [https://www.onlinecourses.ooo](https://www.onlinecourses.ooo/) )
 - Javascript by Websbos: [https://goo.gl/cXr4w1](https://goo.gl/cXr4w1)
 - YouTube channels like thenewboston, Net Ninja, Coding Entrepreneurs are helpful too.
+- [LearnCodeOnline](https://courses.learncodeonline.in/learn) by Hitesh Chaudhary 
 
 #### Tools and Plans
 
@@ -39,3 +42,39 @@
 ### Database Management System (DBMS)
 
 - Brief introduction to DBMS concepts - [https://bit.ly/2OyNJQO](https://bit.ly/2OyNJQO)
+
+### Recommended courses 
+
+- JavaScript – The Complete Guide 2020 (Beginner + Advanced) : [https://www.udemy.com/share/1029Rk/](https://www.udemy.com/share/1029Rk/)
+
+- React - The Complete Guide (incl Hooks, React Router, Redux) : [https://www.udemy.com/share/101Wby/](https://www.udemy.com/share/101Wby/)
+
+- NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) : [https://www.udemy.com/share/1013ho/](https://www.udemy.com/share/1013ho/)
+
+- Advanced CSS and Sass: Flexbox, Grid, Animations and More! : [https://www.udemy.com/share/101Wkw/](https://www.udemy.com/share/101Wkw/)
+
+### Youtube Channels 
+
+- The Net Ninja [Playlists](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists)
+
+- [Tech no Kami](https://www.youtube.com/channel/UCEOlPDwCfKExEiyBrIo4gOg/featured)
+
+- Codevolution [React Playlist](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+
+- Hitesh Chaudhary [JavaScript Playlist](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+
+### Documentation
+
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
+- [React](https://reactjs.org/docs/getting-started.html)
+- [Angular](https://angular.io/docs)
+- [Node](https://nodejs.org/en/docs/)
+- [Deno](https://doc.deno.land/https/github.com/denoland/deno/releases/latest/download/lib.deno.d.ts)
+- [Vue](https://vuejs.org/v2/guide/)
+
+### Books
+
+- [You-Don't-Know-JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
+- [Eloquent JavaScript](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) by Marijn Haverbeke
+- JavaScript and JQuery: Interactive Front–End Web Development by Jon Duckett [**One of the best regarded books**]
+- [JavaScript: The Good Parts](https://www.academia.edu/40689789/JavaScript_The_Good_Parts_by_Douglas_Crockford) by Douglas Crockford
