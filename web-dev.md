@@ -17,7 +17,7 @@
 
 #### Tools and Plans
 
-- Sign for Github Student pack to get free access to many things at: [https://goo.gl/MkPtMW](https://goo.gl/MkPtMW)
+- Sign for GitHub Student pack to get free access to many things at: [https://goo.gl/MkPtMW](https://goo.gl/MkPtMW)
 - JetBrains IDE&#39;s can be used via Student License when you sign up using Institute&#39;s email.
 - As primary code editor- **VSCode** should be preferred, if not feasible switch to **Sublime Text**.
 - Subscribe to mailing list created by [Avi Aryan](https://github.com/aviaryan/) - [https://devletters.com/](https://devletters.com/)
