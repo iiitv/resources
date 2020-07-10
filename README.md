@@ -53,7 +53,7 @@ Apart from adding a visual flair to your software, apps or website, good design 
 
 ## [Projects in IIITV](repos.md) 📘
 
-It contains the all the open source projects currently active in this organisation. It holds numerous projects implemented in different stacks like React, Django among others.
+It contains all the open source projects currently active in this organisation. It holds numerous projects implemented in different stacks like React, Django among others.
 Understanding these projects and contributing to these projects will surely help you to become a better coder.
 
 ## [FAQs](faq.md) ❓
