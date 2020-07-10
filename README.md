@@ -12,6 +12,7 @@
 - [DSA and Competitive Programming 💻](#dsa-and-competitive-programming-)
 - [Web Development 🌐](#web-development-)
 - [Mobile Development 📱](#mobile-development-)
+- [Projects in iiitv 📘](#projects-in-iiitv-)
 - [Design 🎨](#design-)
 - [FAQs ❓](#faqs-)
 - [Our Community](#our-community)
@@ -48,7 +49,12 @@ Android and iOS are the larest mobile app markets.
 
 ## [Design](design.md) 🎨
 
-Apart form adding a visual flair to your software, apps or website, good design knowledge is required to also make accessible and easy to use apps. The easier it is to navigate across your product, the longer would the consumer want to stay.
+Apart from adding a visual flair to your software, apps or website, good design knowledge is required to also make accessible and easy to use apps. The easier it is to navigate across your product, the longer would the consumer want to stay.
+
+## [Projects in IIITV](repos.md) 📘
+
+It contains the all the open source projects currently active in this organisation. It holds numerous projects implemented in different stacks like React, Django among others.
+Understanding these projects and contributing to these projects will surely help you to become a better coder.
 
 ## [FAQs](faq.md) ❓
 
