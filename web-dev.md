@@ -6,11 +6,14 @@
 
 - Learn things related to javascript [https://egghead.io/](https://egghead.io/)
 
+- Mozilla Developer Network : [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
 #### For Web development
 
 - Free code camp:[https://bit.ly/2v55qyu](https://bit.ly/2v55qyu)
 - Udemy:[https://bit.ly/1sVdYPd](https://bit.ly/1sVdYPd)
 - (For Udemy coupons, visit [https://www.onlinecourses.ooo](https://www.onlinecourses.ooo/) )
+- For all CSE related coupons [Real Coupons](https://www.real.discount/)
 - Javascript by Websbos: [https://goo.gl/cXr4w1](https://goo.gl/cXr4w1)
 - YouTube channels like thenewboston, Net Ninja, Coding Entrepreneurs are helpful too.
 - [LearnCodeOnline](https://courses.learncodeonline.in/learn) by Hitesh Chaudhary 
@@ -63,14 +66,30 @@
 
 - Hitesh Chaudhary [JavaScript Playlist](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 
+- DevEd [JavaScript & SVG](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+
 ### Documentation
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
-- [React](https://reactjs.org/docs/getting-started.html)
-- [Angular](https://angular.io/docs)
 - [Node](https://nodejs.org/en/docs/)
 - [Deno](https://doc.deno.land/https/github.com/denoland/deno/releases/latest/download/lib.deno.d.ts)
+
+#### JS frameworks
+- [Angular](https://angular.io/docs)
 - [Vue](https://vuejs.org/v2/guide/)
+- [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+
+#### JS libraries 
+- [React](https://reactjs.org/docs/getting-started.html)
+- [jquery](https://api.jquery.com/)
+- [Chart.js](https://www.chartjs.org/docs/latest/)
+
+#### For Static Sites
+
+- [Gatsby](https://www.gatsbyjs.com/docs/)
+- [Next.js](https://nextjs.org/docs)
+- [Hugo](https://gohugo.io/documentation/)
+- [Jekyllrb](https://jekyllrb.com/docs/)
 
 ### Books
 
@@ -78,3 +97,10 @@
 - [Eloquent JavaScript](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) by Marijn Haverbeke
 - JavaScript and JQuery: Interactive Front–End Web Development by Jon Duckett [**One of the best regarded books**]
 - [JavaScript: The Good Parts](https://www.academia.edu/40689789/JavaScript_The_Good_Parts_by_Douglas_Crockford) by Douglas Crockford
+
+### Web Publishing 
+
+- [Surge](https://surge.sh/)
+- [GitHub Pages](https://pages.github.com/)
+- [Heroku](https://devcenter.heroku.com/)
+- [netlify](https://www.netlify.com/)
