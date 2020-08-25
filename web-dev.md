@@ -6,6 +6,8 @@
 
 - Learn things related to javascript [https://egghead.io/](https://egghead.io/)
 
+- Mozilla Developer Network : [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
 #### For Web development
 
 - Free code camp:[https://bit.ly/2v55qyu](https://bit.ly/2v55qyu)
@@ -69,12 +71,18 @@
 ### Documentation
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
-- [React](https://reactjs.org/docs/getting-started.html)
-- [Angular](https://angular.io/docs)
 - [Node](https://nodejs.org/en/docs/)
 - [Deno](https://doc.deno.land/https/github.com/denoland/deno/releases/latest/download/lib.deno.d.ts)
-- [Chart.js](https://www.chartjs.org/docs/latest/)
+
+#### JS frameworks
+- [Angular](https://angular.io/docs)
 - [Vue](https://vuejs.org/v2/guide/)
+- [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+
+#### JS libraries 
+- [React](https://reactjs.org/docs/getting-started.html)
+- [jquery](https://api.jquery.com/)
+- [Chart.js](https://www.chartjs.org/docs/latest/)
 
 #### For Static Sites
 
@@ -89,3 +97,10 @@
 - [Eloquent JavaScript](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) by Marijn Haverbeke
 - JavaScript and JQuery: Interactive Front–End Web Development by Jon Duckett [**One of the best regarded books**]
 - [JavaScript: The Good Parts](https://www.academia.edu/40689789/JavaScript_The_Good_Parts_by_Douglas_Crockford) by Douglas Crockford
+
+### Web Publishing 
+
+- [Surge](https://surge.sh/)
+- [GitHub Pages](https://pages.github.com/)
+- [Heroku](https://devcenter.heroku.com/)
+- [netlify](https://www.netlify.com/)
