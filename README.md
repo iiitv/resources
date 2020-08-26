@@ -66,7 +66,7 @@ Questions we get asked most often.
 - Discord channel where we discuss topics related to DSA and Competitive Programming: [IIITVCC Discord Server Invite](https://discord.gg/pUPbVHF)
 - Join the Open Source Org and our Slack Channels to ask your doubts and discussion: [Get Me In](https://getmein.glitch.me/)
 
-## Contact / Support:
+## Contact / Support
 
 - Write to us at: [codingclub@iiitvadodara.ac.in](mailto:codingclub@iiitvadodara.ac.in)
 - Follow us on Facebook at: [https://www.facebook.com/iiitvcc](https://www.facebook.com/iiitvcc)
