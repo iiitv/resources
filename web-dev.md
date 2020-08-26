@@ -77,12 +77,16 @@
 #### JS frameworks
 - [Angular](https://angular.io/docs)
 - [Vue](https://vuejs.org/v2/guide/)
-- [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 
 #### JS libraries 
 - [React](https://reactjs.org/docs/getting-started.html)
 - [jquery](https://api.jquery.com/)
 - [Chart.js](https://www.chartjs.org/docs/latest/)
+
+#### CSS frameworks
+- [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+- [Foundation](https://get.foundation/frameworks-docs.html)
+- [Bulma](https://bulma.io/documentation/)
 
 #### For Static Sites
 
