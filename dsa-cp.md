@@ -60,6 +60,7 @@
 4. [HackerEarth](https://www.hackerearth.com/)
 5. [LeetCode](https://www.leetode.com/explore/)
 6. [SPOJ](https://www.spoj.com/)
+7. [Codemonk](https://www.hackerearth.com/practice/codemonk/)
 
 ## Additional Resources
 ### Problem Set
