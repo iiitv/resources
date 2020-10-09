@@ -75,4 +75,4 @@ Questions we get asked most often.
 
   ***
 
-<p align='center'>Made With ❤️ By <a href="https://github/iiitv">IIITV Open Source Org</a></p>
+<p align='center'>Made With ❤️ By <a href="https://github.com/iiitv">IIITV Open Source Org</a></p>
