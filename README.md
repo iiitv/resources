@@ -64,6 +64,7 @@ Questions we get asked most often.
 
 - Open source projects created by students at IIITV : [IIITV Open Source Org](https://github.com/iiitv)
 - Discord channel where we discuss topics related to DSA and Competitive Programming: [IIITVCC Discord Server Invite](https://discord.gg/pUPbVHF)
+- Discord channel for DSC IIITV: [DSC IIITV Discord Server Invite](https://discord.gg/DaP5GvB)
 - Join the Open Source Org and our Slack Channels to ask your doubts and discussion: [Get Me In](https://getmein.glitch.me/)
 
 ## Contact / Support
