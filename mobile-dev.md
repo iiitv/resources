@@ -13,7 +13,6 @@ Learning Android app development may seem like a daunting task, but it can open 
 - Android Basics in Kotlin :[https://developer.android.com/courses](https://developer.android.com/courses)
 - Android Dev for Intermediate(Highly recommended): [https://classroom.udacity.com/courses/ud9012](https://classroom.udacity.com/courses/ud9012)
 - SQLite Databse for Android in Kotlin :[Javatpoint](https://www.javatpoint.com/kotlin-android-sqlite-tutorial#:~:text=%E2%86%92%20%E2%86%90%20prev-,Kotlin%20Android%20SQLite%20Tutorial,database%20is%20embedded%20in%20android.)
-- Android Dev for Advanced :[https://classroom.udacity.com/courses/ud855](https://classroom.udacity.com/courses/ud855)
 - There are many udemy paid courses but can be legally available for free.
     (For Udemy coupons and course downloads,
                         visit [https://www.onlinecourses.ooo](https://www.onlinecourses.ooo/),
@@ -24,6 +23,7 @@ Learning Android app development may seem like a daunting task, but it can open 
 #### Android App development in Java
 
 - Build your First android project from scratch: [CLICK HERE](https://codelabs.developers.google.com/codelabs/build-your-first-android-app/#0)
+- Android Dev for Advanced :[https://classroom.udacity.com/courses/ud855](https://classroom.udacity.com/courses/ud855)
 - Complete Android with java from basic to advanced :- [Drive Link](https://drive.google.com/file/d/1QlkqbUiynV13z9X9XlYJno1jGeO_1lH2/view?usp=sharing)
 
 
@@ -39,11 +39,15 @@ With these three capabilities, ARCore can build an understanding of the real wor
 
 ### Youtube Channels 
 
-- Telusko [https://www.youtube.com/watch?v=I6rkwJed-HY](https://www.youtube.com/watch?v=I6rkwJed-HY)
 
-- Smartherd [Playlist for Kotlin](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LwgK1JsnMsakYNACYGa1cjR)
+-  Coding With Tea [https://www.youtube.com/channel/UCnKhcV7frITmrYbIU5MrMZw](https://www.youtube.com/channel/UCnKhcV7frITmrYbIU5MrMZw)
+-  Telusko [https://www.youtube.com/watch?v=I6rkwJed-HY](https://www.youtube.com/watch?v=I6rkwJed-HY)
+-  Smartherd [Playlist for Kotlin](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LwgK1JsnMsakYNACYGa1cjR)
+-  Firebase:-
+-           1) Basic Firestore and Realtime Database queries [Yt channel](https://www.youtube.com/watch?v=YHI-B-kMjXg&list=PLj76U7gxVixQ1JcaOCA7U12SoS8l-21xU)
+-           2) FCM [Yt channel](https://www.youtube.com/watch?v=JAEldfC6b-c&list=PLj76U7gxVixSZIec8QSQCxHONZTZbQheG&index=1)
 
 
 ### Documentation
 
-- [Official Documentation for Android](https://developer.android.com/docs)
+- You can anyway stay updated to the latest librabries coming in Android by visiting [Official Documentation for Android](https://developer.android.com/docs)
