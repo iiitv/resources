@@ -10,7 +10,6 @@ Learning Android app development may seem like a daunting task, but it can open 
 #### Android app development in Kotlin
 
 - Understanding Kotlin:[https://classroom.udacity.com/courses/ud9011](https://classroom.udacity.com/courses/ud9011)
-- Complete Android Developement from basic to pro: [Drive Link](https://drive.google.com/drive/folders/1ed9c9zbynXbRP_ZacKdQTlidxNPnX0NW?usp=sharing)
 - Android Basics in Kotlin :[https://developer.android.com/courses](https://developer.android.com/courses)
 - Android Dev for Intermediate(Highly recommended): [https://classroom.udacity.com/courses/ud9012](https://classroom.udacity.com/courses/ud9012)
 - SQLite Databse for Android in Kotlin :[Javatpoint](https://www.javatpoint.com/kotlin-android-sqlite-tutorial#:~:text=%E2%86%92%20%E2%86%90%20prev-,Kotlin%20Android%20SQLite%20Tutorial,database%20is%20embedded%20in%20android.)
